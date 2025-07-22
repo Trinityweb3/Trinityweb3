@@ -1,4 +1,5 @@
 # Trinity
+
 Hey, there!
 
 - I'm a Rust developer, focused on blockchain and cryptography
