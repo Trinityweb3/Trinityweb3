@@ -1,5 +1,6 @@
 # Trinity
 Hey, there!
+
 I'm a Rust developer, focused on blockchain and cruptography
 
 ## What I do
