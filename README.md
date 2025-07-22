@@ -1,7 +1,7 @@
 # Trinity
 Hey, there!
 
-I'm a Rust developer, focused on blockchain and cruptography
+- I'm a Rust developer, focused on blockchain and cruptography
 
 ## What I do
 - Work with cryptography: I understand encryption, signatures, hash functions and etc.
