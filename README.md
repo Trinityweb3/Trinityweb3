@@ -20,8 +20,6 @@ Hey, there!
 ## Get in touch
 - Telegram:
 [@trinitycult](https://t.me/trinitycult)
-- X:
-[0xTrinityWEB3](https://x.com/0xTrinityWEB3)
 - E-mail:
 zborovskyart@gmail.com
 
