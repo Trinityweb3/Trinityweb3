@@ -1,4 +1,4 @@
-![nft](https://github.com/user-attachments/assets/065e5c60-bde2-4f59-ab61-bf41fc886233)
+![Uploading jam-solana.gif…]()
 # Trinity
 
 🦀 Hey, there!
