@@ -1,21 +1,23 @@
 # Trinity
 
-Hey, there!
+🦀 Hey, there!
 
-- I'm a Rust developer, focused on blockchain and cryptography
+- I'm a Solana Rust developer, focused on building high-performance decentralized applications and secure cryptographic primitives.
 
 ## What I do
+- Solana program development: writing secure and optimized smart contracts using Anchor framework and native solana-sdk
+
 - Work with cryptography: I understand encryption, signatures, hash functions and etc.
 
-- Know how blockchains work: PoS, PoH, transactions, mempools and UTXOs
+- Cryptography: Deep understanding of Solana's programms architecture(PDA's, compute units), digital signatures (Ed25519, ECDSA)
 
-- Continuouslu learning and diving deeper into smart contract development and low-level Web3 tech.
+- Bots: Developing high-speed trading bots, MEV tools, and Telegram interfaces using teloxide
 
-- In crypto since 2023 - as a user and researcher, since 2025 as an influencer, and now a developer.
+- In crypto since 2023 - as a user and researcher, since 2025 as an influencer, and now a developer
 
 ## Tech Stack
-- **Languages & frameworks**: Rust, anchor, some JavaScript/TypeScript
-- **Tools**: Git, Gnu/Linux CLI
+- **Languages & frameworks**: Rust, Python, Teloxide, Solana-sdk, Solana-client, Anchor 
+- **Tools**: Git, Gnu/Linux CLI, Helius RPC for Solana
 
 ## Get in touch
 - Telegram:
