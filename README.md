@@ -1,4 +1,3 @@
-![Uploading jam-solana.gif…]()
 # Trinity
 
 🦀 Hey, there!
