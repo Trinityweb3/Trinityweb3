@@ -1,3 +1,4 @@
+![github](https://github.com/user-attachments/assets/94755740-ce1c-4843-aff9-74c00f6186f3)
 # Trinity
 
 🦀 Hey, there!
