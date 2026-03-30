@@ -1,4 +1,6 @@
-<img width="500" height="161" alt="Area_" src="https://github.com/user-attachments/assets/1f77798d-e13b-4354-84b6-dc8bbbd96b2d" />
+<img width="500" height="161" alt="Area_" src="https://github.com/user-attachments/assets/1f77798d-e13b-4354-84b6-dc8bbbd96b2d"/>
+
+
 # Trinity
 
 🦀 Hey, there!
