@@ -3,7 +3,7 @@
 
 # Trinity
 
-Hey, there!   ![](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+Hey, there!  
 
 - I'm a Solana Rust developer, focused on building high-performance decentralized applications and secure cryptographic primitives.
 
@@ -16,6 +16,9 @@ Hey, there!   ![](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge
 
 ## Tech Stack
 - **Languages & frameworks**: Rust, Python, Teloxide, Solana-sdk, Solana-client, Anchor, TS, NodeJS
+
+[![GitHub](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Get in touch
 - Telegram:
