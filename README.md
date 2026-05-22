@@ -16,6 +16,8 @@ Hey, there!
 
 ## Tech Stack
 - **Languages & frameworks**: Rust, Python, Teloxide, Solana-sdk, Solana-client, Anchor, TS, NodeJS
+![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=E43716)
+![](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
 ## Get in touch
 - Telegram:
