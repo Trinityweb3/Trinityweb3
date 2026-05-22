@@ -16,9 +16,6 @@ Hey, there!
 ## Tech Stack
 - **Languages & frameworks**: Rust, Python, Teloxide, Solana-sdk, Solana-client, Anchor, TS, NodeJS
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trinityweb3&layout=compact&theme=radial)]
-
-
 ## Get in touch
 - Telegram:
 [@trinitycult](https://t.me/trinitycult)
