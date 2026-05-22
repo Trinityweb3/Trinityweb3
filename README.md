@@ -4,7 +4,6 @@
 # Trinity
 
 Hey, there!  
-
 - I'm a Solana Rust developer, focused on building high-performance decentralized applications and secure cryptographic primitives.
 
 ## What I do
@@ -17,7 +16,7 @@ Hey, there!
 ## Tech Stack
 - **Languages & frameworks**: Rust, Python, Teloxide, Solana-sdk, Solana-client, Anchor, TS, NodeJS
 
-[![GitHub](https://github-readme-stats.vercel.app/api?username=Trinityweb3&show_icons=true&theme=radial)]
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trinityweb3&layout=compact&theme=radial)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Get in touch
