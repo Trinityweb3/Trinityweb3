@@ -1,10 +1,7 @@
 <img width="500" height="161" alt="Area_" src="https://github.com/user-attachments/assets/1f77798d-e13b-4354-84b6-dc8bbbd96b2d"/>
 
 
-# Trinity
-
-Hey, there!  
-- I'm a Solana Rust developer, focused on building high-performance decentralized applications and secure cryptographic primitives.
+# Hi, I'm Trinity
 
 ## What I do
 - Solana program development as writing secure and optimized smart contracts using anchor
@@ -14,7 +11,7 @@ Hey, there!
 - In crypto since 2023 - as a user and researcher, since 2025 as an influencer, and now a developer
 
 ## Tech Stack
-- **Languages & frameworks**: Rust, Python, Teloxide, Solana-sdk, Solana-client, Anchor, TS, NodeJS
+- **Languages & frameworks**: Rust, TS, Python, Teloxide, Anchor, Solana SDK's
 
 ## Get in touch
 - Telegram:
