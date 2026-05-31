@@ -11,7 +11,7 @@
 - In crypto since 2023 - as a user and researcher, since 2025 as an influencer, and now a developer
 
 ## Tech Stack
-- **Languages & frameworks**: Rust, TS, Python, Teloxide, Anchor, Solana SDK's
+- **Languages & frameworks**: Rust, TS, Python, Teloxide, Anchor, Solana SDK
 
 ## Get in touch
 - Telegram:
