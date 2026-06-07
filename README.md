@@ -4,7 +4,7 @@
 # Hi, I'm Trinity
 
 ## What I do
-- Solana program development as writing secure and optimized smart contracts using anchor
+- Solana program development as writing secure and optimized smart contracts using native Rust
   
 - Bots: Developing high-speed trading bots, market making bots and Telegram interfaces using teloxide
 
