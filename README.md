@@ -5,7 +5,7 @@
 - CV in English
 
 ### Tech Stack
-![Rust](https://img.shields.io/badge/Rust-black?logo=rust) ![Anchor](https://img.shields.io/badge/Anchor-black?logo=rust) ![Solana](https://img.shields.io/badge/Solana-black?logo=solana) ![Meteora](https://img.shields.io/badge/Meteora_DLMM_Programm-black?logo=solana) ![Orca](https://img.shields.io/badge/Orca_DEX-black?logo=solana)  ![Python](https://img.shields.io/badge/Python-black?logo=python) 
+![Rust](https://img.shields.io/badge/Rust-black?logo=rust) ![Anchor](https://img.shields.io/badge/Anchor-black?logo=rust) ![Solana](https://img.shields.io/badge/Solana-black?logo=solana) ![Meteora](https://img.shields.io/badge/Meteora_DLMM_Programm-black?logo=solana) ![Orca](https://img.shields.io/badge/Orca_DEX-black?logo=solana)  ![Python](https://img.shields.io/badge/Python-black?logo=python)  ![Python](https://img.shields.io/badge/TypeScript-black?logo=typescript)
 
 
 
