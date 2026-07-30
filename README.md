@@ -5,6 +5,8 @@ https://camo.githubusercontent.com/6ac07f173f20c1071cca3a01a8e88a58b583afedd0e8c
 The next time you're using Safari or Firefox and it's running slowly, you can say to yourself, "I could've had a V8 (a browser 'engine')".
 </blockquote>
 
+![Rust](https://img.shields.io/badge/Rust-orange?logo=rust)
+
 
 
 # Hi, I'm Trinity
