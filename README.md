@@ -1,12 +1,14 @@
 <img width="500" height="161" alt="Area_" src="https://github.com/user-attachments/assets/1f77798d-e13b-4354-84b6-dc8bbbd96b2d"/>
 
+https://camo.githubusercontent.com/6ac07f173f20c1071cca3a01a8e88a58b583afedd0e8ca6c8629692a9fe3c23a/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069
 
 # Hi, I'm Trinity
 
 ## What I do
-- Solana program development as writing secure and optimized smart contracts using native Rust
+- Solana program developer; secure and optimized smart contracts writer on native Rust
   
 - Bots: Developing high-speed trading bots, market making bots and Telegram interfaces using teloxide
+- Work with gRPC; web sockets and other
 
 - In crypto since 2023 - as a user and researcher, since 2025 as an influencer, and now a developer
 
