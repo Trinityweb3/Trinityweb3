@@ -11,7 +11,7 @@
 - In crypto since 2023 - as a user and researcher, since 2025 as an influencer, and now a developer
 
 ## Tech Stack
-![Rust](https://img.shields.io/badge/Rust-orange?logo=rust) ![Solana](https://img.shields.io/badge/Solana-white?logo=solana)
+![Rust](https://img.shields.io/badge/Rust-orange?logo=rust) ![Solana](https://img.shields.io/badge/Solana-white?logo=solana) ![Meteora](https://img.shields.io/badge/Meteora-yellow?logo=solana)
 
 
 - **Languages & frameworks**:<br>  - Dexes: Orca Whirlpools, Meteora DLMM.<br> - Tools: Rust, TS, Python, Teloxide, Anchor, Solana SDK
