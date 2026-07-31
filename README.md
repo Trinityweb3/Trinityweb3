@@ -2,7 +2,7 @@
 
 ### Hi, I'm Trinity 👋
 
-- CV in ![English](https://docs.google.com/document/d/1_3tCsnPryOeTCVPPZZjExr0-QKGrPyJ51AmW-45jF44/edit?usp=sharing)
+- CV in [English](https://docs.google.com/document/d/1_3tCsnPryOeTCVPPZZjExr0-QKGrPyJ51AmW-45jF44/edit?usp=sharing)
 
 ### Tech Stack
 ![Rust](https://img.shields.io/badge/Rust-black?logo=rust) ![Anchor](https://img.shields.io/badge/Anchor-black?logo=rust) ![Solana](https://img.shields.io/badge/Solana-black?logo=solana) ![Meteora](https://img.shields.io/badge/Meteora_DLMM_Programm-black?logo=solana) ![Orca](https://img.shields.io/badge/Orca_DEX-black?logo=solana)  ![Python](https://img.shields.io/badge/Python-black?logo=python)  ![Python](https://img.shields.io/badge/TypeScript-black?logo=typescript)
