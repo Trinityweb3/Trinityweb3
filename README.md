@@ -11,7 +11,7 @@
 
 ### 🤝 Contact me
 - Telegram:
-[@trinitycult](https://t.me/trinitycult)
+![Banner](https://t.me/trinitycult)
 - E-mail:
 zborovskyart@gmail.com
 
