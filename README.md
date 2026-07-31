@@ -10,7 +10,6 @@
 
 
 ### 🤝 Contact me
-- Telegram:
 [![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge)](https://t.me/trinitycult)
 - E-mail:
 zborovskyart@gmail.com
