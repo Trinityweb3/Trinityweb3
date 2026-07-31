@@ -10,5 +10,5 @@
 
 
 ### 🤝 Contact me
-[![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge)](https://t.me/trinitycult) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge)](zborovskyart@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge)](https://t.me/trinitycult) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge)](mailto:zborovskyart@gmail.com)
 
