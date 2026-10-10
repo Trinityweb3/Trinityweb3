@@ -1,6 +1,6 @@
 ![Banner](https://camo.githubusercontent.com/6ac07f173f20c1071cca3a01a8e88a58b583afedd0e8ca6c8629692a9fe3c23a/68747470733a2f2f726561646d652d6a6f6b65732e76657263656c2e6170702f617069)
 
-##№ Hi, I'm Trinity 👋
+### Hi, I'm Trinity 👋
 
 Rust Developer/Solana engineer 💼 CV in [English](https://docs.google.com/document/d/13LkAiCLl2Du5u_3zzAJBO8bM9ABrAnpDu4fvQDg0k3E/edit?usp=sharing)
 
